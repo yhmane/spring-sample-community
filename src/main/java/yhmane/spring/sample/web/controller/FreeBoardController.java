@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class FreeBoardController {
 
-    @GetMapping("/freeBoard")
+    @GetMapping("/freeboard")
     public String home() {
-        return "layouts/board/freeBoard";
+        return "layouts/board/freeboard/freeBoard";
     }
 }
