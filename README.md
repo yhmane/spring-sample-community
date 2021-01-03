@@ -5,3 +5,4 @@
 #### 링크
 * [초심자를 위한 스프링 부트 시작하기!! (1) 프로젝트 설정하기](https://yhmane.tistory.com/146) 
 * [초심자를 위한 스프링 부트 시작하기!! (2) 화면 LAYOUT 윤곽잡기 | BOOTSTRAP 설정 | BRANCH 관리 전략 적용하기!!](https://yhmane.tistory.com/148)
+* [초심자를 위한 스프링 부트 시작하기!! (3) 자유게시판 리스트 조회 | JPA 사용해보기](https://yhmane.tistory.com/151)
